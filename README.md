@@ -6,8 +6,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Devdeep8&label=Profile%20views&color=0e75b6&style=flat" alt="Devdeep8" /> 
 </p>
-[![wakatime](https://wakatime.com/badge/user/494f4d1d-3982-4979-9a68-dfdce57ec66e.svg)](https://wakatime.com/@494f4d1d-3982-4979-9a68-dfdce57ec66e)
-
+<a href="https://wakatime.com/@494f4d1d-3982-4979-9a68-dfdce57ec66e"><img src="https://wakatime.com/badge/user/494f4d1d-3982-4979-9a68-dfdce57ec66e.svg" alt="Total time coded since Jul 26 2024" /></a>
 ###
 
 <h2 align="left">About me</h2>
