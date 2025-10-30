@@ -1,8 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h4 align="left">My name is Devdeep and I'm a Web Developer, from India</h4>
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/5bb89d22-65b6-43b9-b4ad-bc69b85b80f8/thumbnail" >
+</p>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Devdeep8&label=Profile%20views&color=0e75b6&style=flat" alt="Devdeep8" /> 
 </p>
