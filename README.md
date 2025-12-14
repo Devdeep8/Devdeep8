@@ -29,7 +29,8 @@ I love designing applications that solve real-world problems — combining **mod
 
 🏆 Achievements
 <p align="center">
-<img src="https://img.shields.io/badge/Hackathon_Winner-2025-brightgreen" alt="Hackathon Winner 2025">
+  Smart India Hackathin Winner 2025
+<img src="https://img.shields.io/badge/Hackathon_Winner-2025-brightgreen" alt="SIH Winner 2025">
 </p>
 <p align="center">
 <strong>Problem Set ID:</strong> 25189
